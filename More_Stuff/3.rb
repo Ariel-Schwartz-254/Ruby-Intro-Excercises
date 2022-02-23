@@ -1,0 +1,1 @@
+# Exception handling helps our program run fully even if it encounters errors along the way. It can also provide more clarity into where and what error came up.
